@@ -36,3 +36,7 @@
 <img src="https://raw.githubusercontent.com/GuilhermeCanina/GuilhermeCanina/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=caninaguilherme">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=caninaguilherme" alt="Data Card for Spotify">
+</a>
