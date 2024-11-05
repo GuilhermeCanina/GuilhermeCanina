@@ -38,5 +38,5 @@
 ###
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=caninaguilherme">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=caninaguilherme" alt="Data Card for Spotify">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=caninaguilherme" alt="Data Card for Spotify" width="600">
 </a>
